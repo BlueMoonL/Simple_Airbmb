@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="naver_map_client_id">j7mqzhd1rv</string>
+    <string name="naver_map_client_id">your_client_id</string>
 
 </resources>
